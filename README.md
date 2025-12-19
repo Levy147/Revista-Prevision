@@ -10,9 +10,9 @@ Revista virtual interactiva sobre el tema de **La Previsión** en Administració
 
 Esta es una revista digital moderna y completamente funcional creada con HTML, CSS y JavaScript. No requiere backend ni servidor, es completamente estática y puede alojarse en GitHub Pages o cualquier servicio de hosting estático.
 
-**Autor:** Herbert Steven Galeano Flores  
-**Carné:** 202406260  
-**Curso:** E120.11 Administración Educativa II  
+**Autor:** Herbert Steven Galeano Flores
+**Carné:** 202406260
+**Curso:** E120.11 Administración Educativa II
 **Universidad:** Universidad de San Carlos de Guatemala - Facultad de Humanidades
 
 ## 🎯 Contenido
@@ -48,6 +48,7 @@ La revista cubre todos los temas requeridos sobre La Previsión:
 ### Opción 3: Otro Hosting Estático
 
 Puedes subir los archivos a cualquier servicio de hosting estático como:
+
 - Netlify
 - Vercel
 - Firebase Hosting
@@ -93,6 +94,7 @@ Puedes personalizar fácilmente:
 ## 📱 Compatibilidad
 
 La revista es compatible con todos los navegadores modernos:
+
 - Chrome/Edge (últimas versiones)
 - Firefox (últimas versiones)
 - Safari (últimas versiones)
@@ -100,29 +102,13 @@ La revista es compatible con todos los navegadores modernos:
 
 ## 📚 Referencias Bibliográficas
 
-1. Chiavenato, I. (2012). *Administración: Proceso Administrativo* (5ª ed.). McGraw-Hill Interamericana.
+Chiavenato, I. (2017). Administración: Proceso administrativo (4ª ed.). McGraw-Hill Education.
 
-2. Koontz, H., & Weihrich, H. (2012). *Administración: Una Perspectiva Global y Empresarial* (14ª ed.). McGraw-Hill Interamericana.
+Gómez, L. F. (2020). Administración educativa: Un enfoque basado en competencias (5ª ed.). Trillas.
 
-3. Robbins, S. P., & Coulter, M. (2017). *Administración* (13ª ed.). Pearson Educación.
+Fayol, H. (2003). Administración industrial y general (14ª ed.). Ediciones Orbis. (Obra original publicada en 1916).
 
-4. Stoner, J. A. F., Freeman, R. E., & Gilbert, D. R. (2012). *Administración* (6ª ed.). Pearson Educación.
-
-5. Drucker, P. F. (2006). *La Gerencia: Tareas, Responsabilidades y Prácticas*. El Ateneo.
-
-6. Mintzberg, H. (2010). *La Estructuración de las Organizaciones*. Ariel.
-
-7. Robbins, S. P., & DeCenzo, D. A. (2016). *Fundamentos de Administración: Conceptos Esenciales y Aplicaciones* (8ª ed.). Pearson Educación.
-
-8. Hellriegel, D., & Slocum, J. W. (2009). *Comportamiento Organizacional* (12ª ed.). Cengage Learning.
-
-9. Gómez, L. F. (2015). *Administración Educativa: Fundamentos y Aplicaciones*. Editorial Universidad de San Carlos de Guatemala.
-
-10. Fayol, H. (2013). *Administración Industrial y General*. Ediciones Díaz de Santos.
-
-11. Terry, G. R., & Franklin, S. G. (2011). *Principios de Administración* (4ª ed.). CECSA.
-
-12. Universidad de San Carlos de Guatemala. (2024). *Guía No. 4 - Administración Educativa II*. Facultad de Humanidades, Departamento de Pedagogía.
+Terry, G. R., & Franklin, S. G. (2015). Principios de administración (8ª ed.). CECSA.
 
 ## 📝 Notas
 
@@ -137,8 +123,8 @@ Una vez publicada en GitHub Pages o tu hosting, comparte el enlace para que otro
 
 ---
 
-**Desarrollado para el curso de Administración Educativa II**  
-**Universidad de San Carlos de Guatemala - Facultad de Humanidades**  
+**Desarrollado para el curso de Administración Educativa II**
+**Universidad de San Carlos de Guatemala - Facultad de Humanidades**
 **Departamento de Pedagogía - Escuela de Vacaciones**
 
 ---
@@ -146,4 +132,3 @@ Una vez publicada en GitHub Pages o tu hosting, comparte el enlace para que otro
 ## 📄 Licencia
 
 Este proyecto es de uso educativo y académico.
-
